@@ -1,4 +1,4 @@
-A simple JavaScript game made using Node.js with JSON method
+A simple game concept with JSON write and read methods using node.js
 
 ### Installation
 You need Node.js to run this project.
